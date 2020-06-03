@@ -3,8 +3,13 @@
     "",
     "\\mysite",
     "\\poll",
-    "\\poll\\templates"
+    "\\poll\\migrations",
+    "\\poll\\static",
+    "\\poll\\templates",
+    "\\poll\\templates\\poll",
+    "\\templates",
+    "\\templates\\admin"
   ],
-  "SelectedNode": "\\poll\\urls.py",
+  "SelectedNode": "\\poll\\static\\style.css",
   "PreviewInSolutionExplorer": false
 }
